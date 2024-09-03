@@ -16,8 +16,8 @@ I am eager to explore opportunities where my skills and experience can bring val
 Thank you for taking the time to read my introduction. I look forward to any opportunities for collaboration or discussion.
 Please contact me. I will not disappoint you.<br />
 <p align="center">
-  <a href="https://github.com/Luis96920">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20AI%20Developer;Full%20Stack%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+  <a href="https://github.com/chainshifu">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front-end%20Developer;Blockchain%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
 # 💻 Tech Stack
@@ -132,12 +132,12 @@ Please contact me. I will not disappoint you.<br />
 </table>
 <div align="center">
 <a href="https://github.com/ThecoderPinar">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luis96920&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis96920&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luis96920&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luis96920&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chainshifu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chainshifu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chainshifu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chainshifu&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luis96920&theme=synthwave-84"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chainshifu&theme=synthwave-84"/>
 </div>
 <br clear="both">
