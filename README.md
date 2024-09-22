@@ -14,7 +14,7 @@ I pride myself on my ability to bridge the gap between technical complexity and 
 I am eager to explore opportunities where my skills and experience can bring value to innovative projects and help shape the future of web and blockchain technologies.
 
 Thank you for taking the time to read my introduction. I look forward to any opportunities for collaboration or discussion.
-Please contact me. I will not disappoint you.<br />
+Please contact me.<br />
 <p align="center">
   <a href="https://github.com/chainshifu">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front-end%20Developer;Blockchain%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
